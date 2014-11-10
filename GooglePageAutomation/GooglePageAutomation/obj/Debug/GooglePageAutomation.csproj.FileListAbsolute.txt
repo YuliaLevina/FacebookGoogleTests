@@ -1,0 +1,9 @@
+C:\GooglePage\GooglePageAutomation\GooglePageAutomation\bin\Debug\GooglePageAutomation.dll
+C:\GooglePage\GooglePageAutomation\GooglePageAutomation\bin\Debug\GooglePageAutomation.pdb
+C:\GooglePage\GooglePageAutomation\GooglePageAutomation\bin\Debug\WebDriver.dll
+C:\GooglePage\GooglePageAutomation\GooglePageAutomation\bin\Debug\WebDriver.Support.dll
+C:\GooglePage\GooglePageAutomation\GooglePageAutomation\bin\Debug\WebDriver.xml
+C:\GooglePage\GooglePageAutomation\GooglePageAutomation\bin\Debug\WebDriver.Support.xml
+C:\GooglePage\GooglePageAutomation\GooglePageAutomation\obj\Debug\GooglePageAutomation.dll
+C:\GooglePage\GooglePageAutomation\GooglePageAutomation\obj\Debug\GooglePageAutomation.pdb
+C:\GooglePage\GooglePageAutomation\GooglePageAutomation\obj\Debug\GooglePageAutomation.csprojResolveAssemblyReference.cache
