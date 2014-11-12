@@ -57,12 +57,12 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="FacebookHomePage.cs" />
-    <Compile Include="FacebookLoginPage.cs" />
-    <Compile Include="FacebookLoginPageTests.cs" />
-    <Compile Include="FacebookHomePageTests.cs" />
-    <Compile Include="GoogleSearchPage.cs" />
-    <Compile Include="GoogleSearchResultPage.cs" />
+    <Compile Include="Pages\FacebookHomePage.cs" />
+    <Compile Include="Pages\FacebookLoginPage.cs" />
+    <Compile Include="FacebookGoToStartPageTests.cs" />
+    <Compile Include="FacebookLoginTests.cs" />
+    <Compile Include="Pages\GoogleSearchPage.cs" />
+    <Compile Include="Pages\GoogleSearchResultPage.cs" />
     <Compile Include="GoogleTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestBase.cs" />

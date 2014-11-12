@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using OpenQA.Selenium;
 
@@ -37,6 +38,7 @@ namespace PageAutomation
             _driver.FindElement(By.Id(FacebookEmailInputFieldId)).SendKeys("ilearnautomation@gmail.com");
             _driver.FindElement(By.Id(FacebookPasswordInputFieldId)).SendKeys("ilearnautomationpassword");
             _driver.FindElement(By.Id(FacebookLoginButtonId)).Click();
+            Thread.Sleep(3000);
 
             var homePage = new FacebookHomePage(_driver);
 

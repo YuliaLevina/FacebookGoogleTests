@@ -1,0 +1,9 @@
+C:\Git\FacebookGoogleTests\GooglePageAutomation\GooglePageAutomation\bin\Debug\GooglePageAutomation.dll
+C:\Git\FacebookGoogleTests\GooglePageAutomation\GooglePageAutomation\bin\Debug\GooglePageAutomation.pdb
+C:\Git\FacebookGoogleTests\GooglePageAutomation\GooglePageAutomation\bin\Debug\WebDriver.dll
+C:\Git\FacebookGoogleTests\GooglePageAutomation\GooglePageAutomation\bin\Debug\WebDriver.Support.dll
+C:\Git\FacebookGoogleTests\GooglePageAutomation\GooglePageAutomation\bin\Debug\WebDriver.xml
+C:\Git\FacebookGoogleTests\GooglePageAutomation\GooglePageAutomation\bin\Debug\WebDriver.Support.xml
+C:\Git\FacebookGoogleTests\GooglePageAutomation\GooglePageAutomation\obj\Debug\PageAutomation.csprojResolveAssemblyReference.cache
+C:\Git\FacebookGoogleTests\GooglePageAutomation\GooglePageAutomation\obj\Debug\GooglePageAutomation.dll
+C:\Git\FacebookGoogleTests\GooglePageAutomation\GooglePageAutomation\obj\Debug\GooglePageAutomation.pdb
