@@ -1,2 +1,2 @@
-FacebookGoogleTests
+First steps in test automation
 ===================
